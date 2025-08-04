@@ -1,17 +1,14 @@
 {
-  "enabled": true,
-  "title": "Subscription Required",
-  "desc1": "1. Premium features will be unlocked.",
-  "desc2": "2. Early access to new updates.",
-  "desc3": "3. Priority customer support.",
-  "cancel_text": "Cancel",
-  "subscribe_text": "Subscribe",
-  "subscribe_url": "https://t.me/DK_TOP_VOICE_GANG",
-  "bg_color": "#FFFFFF",
-  "title_color": "#000000",
-  "desc_color": "#333333",
-  "button1_color": "#888888",
-  "button2_color": "#4CAF50",
-  "show_cancel_button": false,
-  "show_subscribe_button": true
+  "enable": true,
+  "drag_mode": true,
+  "title": "🔥 New Update Available!",
+  "description": "Upgrade now to enjoy the latest features and bug fixes.",
+  "button_text": "DOWNLOAD NOW",
+  "button_url": "https://t.me/HUNTER_WORLD_PRO{
+  "enable": true,
+  "drag_mode": true,
+  "title": "🔥 New Update Available!",
+  "description": "Upgrade now to enjoy the latest features and bug fixes.",
+  "button_text": "DOWNLOAD NOW",
+  "button_url": "https://t.me/HUNTER_WORLD_PRO"
 }
